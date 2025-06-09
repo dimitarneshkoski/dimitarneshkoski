@@ -8,7 +8,7 @@ I love learning, exploring new technologies, and building software that solves r
 - 🎓 Faculty of Computer Science & Engineering, UKIM  
 - 💻 Passionate about full-stack development  
 - 🌱 Currently exploring advanced frameworks and DevOps practices  
-- 📫 Reach me at: [dimitar_neshkoski@yahoo.com] or [https://mk.linkedin.com/in/dimitar-neshkoski-225351270]
+- 📫 Reach me at: [dimitar_neskoski@yahoo.com] or [https://mk.linkedin.com/in/dimitar-neshkoski-225351270]
 
 ## ⚙️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
