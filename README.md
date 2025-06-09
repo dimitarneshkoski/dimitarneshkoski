@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dimitar Neshkoski
 
-<!--
-**dimitarneshkoski/dimitarneshkoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a young software developer from Macedonia 🇲🇰 currently studying at the **Faculty of Computer Science and Engineering (FCSE), UKIM** 🎓.
 
-Here are some ideas to get you started:
+I love learning, exploring new technologies, and building software that solves real-world problems. Whether it's back-end systems or front-end apps, I enjoy diving into the full stack!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Faculty of Computer Science & Engineering, UKIM  
+- 💻 Passionate about full-stack development  
+- 🌱 Currently exploring advanced frameworks and DevOps practices  
+- 📫 Reach me at: [dimitar_neshkoski@yahoo.com] or [https://mk.linkedin.com/in/dimitar-neshkoski-225351270]
+
+## ⚙️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📊 GitHub Stats
+![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitarneshkoski&show_icons=true&theme=radical)
+
+## ⚡ Fun Fact
+I’m also a car enthusiast and love exploring automotive mechanics 🛠️🚗
+
